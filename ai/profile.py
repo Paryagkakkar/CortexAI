@@ -1,0 +1,11 @@
+print("=========cortexai=============")
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+college=input("Enter your college: ")
+cgpa=float(input("Enter your cgpa: "))
+print("===========profile=============")
+print("Name: ", name)
+print("Age: ", age)
+print("College: ", college)
+print("Cgpa: ", cgpa)
+
