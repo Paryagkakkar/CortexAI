@@ -1,3 +1,3 @@
 import numpy as np 
-numbers=np.array([10,20,30,40,50])
-print(numbers[1:4])
+marks=np.array([85,92,70,65,98,88])
+print(marks[marks>80])
